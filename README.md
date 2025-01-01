@@ -1,13 +1,9 @@
-# CentrixSupport - Mental Health Support Chatbot
+# WealthWise - Spreading financial literacy and economics
 
-CentrixSupport is an AI-powered chatbot designed to provide mental health support and resources to individuals experiencing stress or anxiety. The chatbot offers empathetic responses, coping mechanisms, and links to professional help, assisting users who may need further guidance.
+WealthWise is an AI chatbot designed to generate innovative solutions for financial literacy and economic education in communities. It's goal is to help users develop creative, practical, and impactful projects that spread financial awareness.
 
 ## Problem Statement
-
-The chatbot is built to fulfill the following objectives:
-- **Provide empathetic responses** to help users feel understood and supported.
-- **Guide users with coping mechanisms** to manage stress and anxiety.
-- **Link users to professional help** for additional assistance, ensuring timely and accurate support.
+Create an innovative project, product, business, or idea that would help spread awareness about financial literacy and economics in the community.
 
 ## Project Overview
 
@@ -21,9 +17,9 @@ The chatbot is built to fulfill the following objectives:
 
 ## Key Features
 
-- **Empathetic Responses**: The chatbot delivers responses that are supportive and compassionate.
-- **Coping Mechanisms**: Offers specific techniques and practices to manage stress and anxiety.
-- **Professional Resources**: Provides links and suggestions for professional mental health support.
+- **Reasonable Responses**: The chatbot delivers responses that are innovative solutions and can make a real difference in financial literacy.
+- **Coping Mechanisms**: Offers specific techniques and practices to manage financial and economic resources.
+- **Professional Resources**: Provides sources and guides.
 
 ## File Structure
 
@@ -46,8 +42,8 @@ The chatbot is built to fulfill the following objectives:
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/AbhinavKaintura/CentrixSupport.git
-   cd centrixsupport
+   git clone https://github.com/AbhinavKaintura/WealthWise.git
+   cd WealthWise
 ```
 This command installs all necessary Python packages for the backend, as listed in the requirements.txt file.
    ```bash
