@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Route, Routes, Navigate, useNavigate } from 'r
 import Chat from "./Chat.jsx";
 import HomePage from "./home.jsx";
 import DisclaimerPopup from "./disclaimer.jsx";
+import InvestmentBasics from "./resources/investBasics.jsx"
+import TaxPlanningGuide from "./resources/tax.jsx"
+
 
 // Wrapper for DisclaimerPopup to handle navigation
 const DisclaimerWrapper = () => {
@@ -42,6 +45,8 @@ function App() {
             </ProtectedRoute>
           } 
         />
+        <Route path='/investBasics' element={<InvestmentBasics/>}/>
+        <Route path='/tax' element={<TaxPlanningGuide/>}/>
       </Routes>
     </Router>
   );

@@ -28,8 +28,7 @@ const DisclaimerPopup = ({ onProceed }) => {
         {/* Content */}
         <div className="disclaimer-content">
           <p>
-            This chatbot is here to listen and support, but it's powered by AI and not a substitute for professional mental health help. For serious concerns or specific guidance, please talk to a licensed mental health professional. We're here to offer a friendly ear, but your well-being deserves personalized care!
-          </p>
+          This chatbot is here to generate ideas and inspire financial literacy projects, but it's powered by AI and not a substitute for professional financial advice. For specific guidance or implementation plans, please consult with qualified financial professionals. We're here to spark innovation, but your projects deserve expert oversight!          </p>
 
           {/* Checkbox Container */}
           <div className="disclaimer-checkbox-container">

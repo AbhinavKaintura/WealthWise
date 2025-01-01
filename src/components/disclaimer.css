@@ -1,10 +1,12 @@
+
+
 .disclaimer-overlay {
   position: fixed;
   inset: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #1B4B5A;
   padding: 1rem;
 }
 
